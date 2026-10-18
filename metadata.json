@@ -1,0 +1,6 @@
+{
+  "name": "AVR Web Consulting",
+  "description": "AVR Web Consulting - Digital Marketing, AI SEO, GEO, LLMO, and Web Development Agency",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

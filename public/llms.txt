@@ -1,0 +1,86 @@
+# AVR Web Consulting
+AVR Web Consulting is an SEO and AI Visibility agency offering Search Engine Optimization, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), Local SEO, Paid Advertising, Content Marketing, Full-Stack Web Development, and Business Automation.
+
+## Main Pages
+- [Home](http://localhost:8080/): AVR Web Consulting Homepage
+- [Paid Advertising Agency — Google Ads & Social Ads | AVR Web Consulting](http://localhost:8080/paid-advertising): Google Ads, Meta, LinkedIn and YouTube campaigns managed by AVR Web Consulting for clients in India, the US, UK, UAE and Europe. Transparent management fees, conversion-first structure.
+- [Measurement first](http://localhost:8080/paid-advertising/google-ads): Google Search, Shopping, Performance Max and YouTube campaigns managed end to end: tracking, structure, copy and landing pages. Management from $150/month for India, US, UK, UAE and Europe.
+- [Account architecture](http://localhost:8080/paid-advertising/social-media-ads): Facebook, Instagram, LinkedIn and YouTube advertising managed by AVR Web Consulting. Creative testing, audience strategy and CAPI tracking for India, US, UK, UAE and Europe.
+- [Creative and landing pages](http://localhost:8080/paid-advertising/social-media-marketing): Content calendars, short-form video, community management and reporting for brands in India and globally. Organic social that supports SEO, AI visibility and paid performance.
+- [AI SEO Services — AEO, GEO, LLM SEO & LLMO | AVR Web Consulting](http://localhost:8080/ai-seo): AI SEO from AVR Web Consulting covers answer engine optimisation, generative engine optimisation, LLM SEO, LLMO, AI visibility tracking and AI citation building for global brands.
+- [Prompt baseline](http://localhost:8080/ai-seo/answer-engine-optimization): AEO services that structure your content for AI Overviews, featured snippets and voice answers using answer-first writing, FAQ and HowTo schema, and entity-consistent facts.
+- [Entity audit](http://localhost:8080/ai-seo/geo-seo): GEO services that increase how often generative engines include your brand: citable statistics, expert quotes, structured comparisons, source authority and prompt-level tracking.
+- [Retrieval engineering](http://localhost:8080/ai-seo/llm-seo): LLM SEO services that build brand entity strength, third-party mentions and retrievable content so ChatGPT, Gemini, Claude, Copilot and DeepSeek recommend your business.
+- [Answer content](http://localhost:8080/ai-seo/llmo): Large Language Model Optimization services: chunk-friendly content architecture, semantic HTML, JSON-LD entity graphs, llms.txt and crawler configuration for reliable AI retrieval.
+- [Off-site authority](http://localhost:8080/ai-seo/ai-visibility): AI visibility services: prompt-set tracking across ChatGPT, Gemini, Perplexity and Copilot, competitor share-of-answer analysis, gap remediation and monthly citation reporting.
+- [Measure and iterate](http://localhost:8080/ai-seo/ai-overviews): AI Overviews optimisation: passage-level answer formatting, entity and schema alignment, source authority building and tracking of which URLs Google cites in AI summaries.
+- [Start with a baseline](http://localhost:8080/ai-seo/ai-citations-mentions): Earn AI citations and brand mentions through digital PR, roundup placement, review platform presence, original data and consistent entity signals across the sources AI engines retrieve.
+- [Answer Engine Optimization (AEO) Services | AVR Web Consulting](http://localhost:8080/ai-seo/ai-retrieval-systems): Optimise your site for AI retrieval systems with entity graphs, machine-readable data layers, embeddings-friendly content architecture, feeds and API-ready structured content.
+- [What Is AI SEO? A Practical 2026 Guide for Businesses](http://localhost:8080what-is-ai-seo): AI SEO is the practice of making your brand retrievable, quotable and cited by AI assistants like ChatGPT, Gemini, Perplexity and Google AI Overviews. Here is how it differs from traditional SEO and how to start.
+- [Query fan-out](http://localhost:8080aeo-vs-geo-vs-llmo): Answer Engine Optimization, Generative Engine Optimization and Large Language Model Optimization overlap but solve different problems. Here is a clear breakdown with what to do for each.
+- [Passage ranking](http://localhost:8080google-ai-overviews-optimization): Google AI Overviews cite a small set of sources per query. This guide covers the page patterns, schema and content structures that get selected, plus how to track your appearance rate.
+- [Corroboration](http://localhost:8080llms-txt-guide): llms.txt is a proposed standard that gives AI systems a curated map of your most useful content. Here is what to include, what to skip, and how it works alongside robots.txt.
+- [Attribution](http://localhost:8080technical-seo-checklist): A working technical SEO checklist covering crawling, indexation, Core Web Vitals, structured data, JavaScript rendering and AI crawler access — in the order we actually run them.
+- [AEO vs GEO vs LLMO: What Each Term Actually Means](http://localhost:8080local-seo-guide-india): How Indian businesses rank in the Google map pack: Business Profile optimisation, citation cleanup, review velocity, location pages and the proximity factors that decide local results.
+- [How to Get Cited in Google AI Overviews](http://localhost:8080ecommerce-seo-strategy): Most e-commerce SEO budgets go to blogs that never convert. Here is the category-first framework we use to grow organic revenue, including faceted navigation control and product schema.
+- [Match the exact query](http://localhost:8080content-that-ranks-and-converts): A repeatable content structure for pages that satisfy searchers, persuade buyers and give AI assistants clean passages to cite.
+- [Front-load the answer](http://localhost:8080google-ads-wasted-spend): Most accounts waste 30-60% of spend on the same seven problems. Here is how to find and fix each one, with the search terms and settings to check first.
+- [Add the right schema](http://localhost:8080core-web-vitals-fixes): Practical LCP, INP and CLS fixes ranked by impact per hour of work, based on the sites we rebuild — plus how to avoid chasing lab scores that field data ignores.
+- [Prove the claim](http://localhost:8080schema-markup-that-matters): Not all structured data earns anything. Here are the schema types that still drive rich results or AI comprehension, the ones that no longer do, and how to implement them safely.
+- [Keep it fast](http://localhost:8080seo-vs-paid-ads-budget): A decision framework for allocating budget between SEO and paid search based on your timeline, margins, competitive position and sales cycle — with three worked scenarios.
+- [llms.txt Explained: Should Your Site Have One?](http://localhost:8080international-seo-hreflang): Domain structure, hreflang implementation, currency and content localisation for brands expanding from India into the US, UK, UAE and Europe.
+- [Technical SEO Checklist for 2026 (52 Points)](http://localhost:8080ai-visibility-tracking): A practical, tool-agnostic method for measuring how often ChatGPT, Gemini, Perplexity, Claude and AI Overviews mention your brand — and what to do with the data.
+- [Local SEO in India: A Step-by-Step Guide](http://localhost:8080small-business-seo-budget): A realistic 90-day plan for small businesses spending around $100 per month on SEO, sequenced so each month funds the next through actual leads.
+- [Primary category precision](http://localhost:8080website-redesign-without-losing-rankings): The migration checklist that protects organic traffic through a redesign or replatform: URL inventory, redirect mapping, content parity, staged launch and post-launch monitoring.
+- [Services and attributes](http://localhost:8080/blog): In-depth guides on AI SEO, AEO, GEO, technical SEO, local SEO, content, paid ads and web performance from the AVR Web Consulting team — written for practitioners, not for word counts.
+- [Crawl control](http://localhost:8080ecommerce-organic-revenue-growth): Six documented AVR Web Consulting engagements across e-commerce, SaaS, healthcare, legal, real estate and manufacturing — with before-and-after metrics for traffic, leads, revenue and AI citations.
+- [Category content system](http://localhost:8080saas-ai-visibility-turnaround): Service page
+- [Structured product data](http://localhost:8080multi-location-clinic-local-seo): Service page
+- [Authority building](http://localhost:8080us-law-firm-national-seo): Service page
+- [AI answer targeting](http://localhost:8080uae-real-estate-lead-generation): Service page
+- [Entity foundation](http://localhost:8080uk-manufacturer-b2b-seo): Service page
+- [Ungated retrieval surface](http://localhost:8080/case-studies): Service page
+- [SEO & AI SEO Pricing in India — Plans From $100/Month | AVR](http://localhost:8080/pricing): Fixed monthly SEO, AI SEO, ads, content and web design pricing from AVR Web Consulting. Plans start at $100/month with no lock-in contracts, manual safe work and monthly reporting.
+- [Indian clients](http://localhost:8080/about): AVR Web Consulting is a digital marketing agency in Visakhapatnam, India serving clients across India, the US, UK, UAE and Europe with hybrid traditional SEO and AI search optimisation.
+- [Audit first](http://localhost:8080/privacy-policy): How AVR Web Consulting collects, uses, stores and protects personal data submitted through this website and during client engagements.
+- [Manual, safe execution](http://localhost:8080/terms-of-service): The terms governing use of the AVR Web Consulting website and the delivery of SEO, AI SEO, advertising, content and web development services.
+- [Content Marketing Services — Answer-First Content | AVR Web Consulting](http://localhost:8080/content-marketing): Answer-first blogging, copywriting, guest posting and manual link building from AVR Web Consulting. Content built to rank in Google and get quoted by ChatGPT, Gemini and AI Overviews.
+- [No auto-generated filler](http://localhost:8080/content-marketing/blogging-copywriting): Human-written blog articles, pillar pages, service page copy and product descriptions optimised for search engines and AI answer engines. From $250/month.
+- [Question mining](http://localhost:8080/content-marketing/guest-posting-link-building): Manual outreach, editorial guest posts and safe link building from AVR Web Consulting. No PBNs, no automated blasts. Placements from $20 with full metrics and live URLs.
+- [Full-Stack Web Development Services | AVR Web Consulting](http://localhost:8080/web-design-development/full-stack-web-development): Custom websites and web applications built with React, JavaScript, Node.js, Python, Java and databases. Full-stack web development by AVR Web Consulting.
+- [Stack chosen per project](http://localhost:8080/web-design-development/vibe-coding-ai-assisted-development): Vibe coding and AI-assisted web development at AVR Web Consulting: faster prototyping and implementation, with human review, testing and engineering decisions kept in place.
+- [01 — Requirement analysis](http://localhost:8080/automation-ai-agents/n8n-automation): Connect your tools, automate repetitive processes and build flexible business workflows with n8n automation from AVR Web Consulting.
+- [02 — Architecture & planning](http://localhost:8080/automation-ai-agents/ai-agent-development): AI agent development by AVR Web Consulting: design AI-powered agents that assist with business tasks, information processing and connected workflows, with human oversight.
+- [Own the comparison layer](http://localhost:8080startups): AVR Web Consulting runs sector-specific SEO, AEO and AI search programmes for startups, e-commerce, healthcare, SaaS, real estate, education, travel, legal, fashion and manufacturing brands.
+- [Ship an entity foundation](http://localhost:8080ecommerce): Service page
+- [Answer-first documentation](http://localhost:8080healthcare): Service page
+- [Low-competition long tail first](http://localhost:8080fashion-retail): Service page
+- [Category pages as buying guides](http://localhost:8080saas-tech): Service page
+- [Product schema at scale](http://localhost:8080real-estate): Service page
+- [Crawl budget control](http://localhost:8080education): Service page
+- [Review and UGC harvesting](http://localhost:8080travel): Service page
+- [Author and reviewer bylines](http://localhost:8080legal): Service page
+- [Location + service matrix](http://localhost:8080manufacturing): Service page
+- [Patient question libraries](http://localhost:8080/industries): Service page
+- [Sectors we serve here](http://localhost:8080seo-company-in-visakhapatnam): AVR Web Consulting serves Visakhapatnam, Delhi NCR, Mumbai, Bangalore, Hyderabad, Chennai, Pune and Kolkata, plus clients in the USA, UK, UAE and Europe. Plans from $100/month.
+- [Competition level](http://localhost:8080seo-company-in-delhi): Service page
+- [Market-specific tactics](http://localhost:8080seo-company-in-mumbai): Service page
+- [Our four-stage local programme](http://localhost:8080seo-company-in-bangalore): Service page
+- [Local audit](http://localhost:8080seo-company-in-hyderabad): Service page
+- [Foundations](http://localhost:8080seo-company-in-chennai): Service page
+- [Content](http://localhost:8080seo-company-in-pune): Service page
+- [Authority](http://localhost:8080seo-company-in-kolkata): Service page
+- [Service coverage and starting price](http://localhost:8080seo-company-in-usa): Service page
+- [What we track monthly](http://localhost:8080seo-company-in-uk): Service page
+- [Locations We Serve — SEO Company in India, USA, UK, UAE & Europe | AVR](http://localhost:8080seo-company-in-uae): Service page
+- [Indian market coverage](http://localhost:8080seo-company-in-europe): Service page
+- [Global coverage](http://localhost:8080/locations): Service page
+- [SEO Services — Global, Local, Technical & GEO | AVR Web Consulting](http://localhost:8080/seo-services): AVR Web Consulting delivers global SEO, local SEO, technical SEO and GEO targeting for businesses in India, the US, UK, UAE and Europe. Manual, safe work from $200/month.
+- [Included in every SEO retainer](http://localhost:8080/seo-services/global-seo): International SEO for brands selling in the US, UK, UAE and Europe: hreflang architecture, country keyword research, multilingual content and market-specific link building.
+- [Hybrid by default](http://localhost:8080/seo-services/local-seo): Local SEO for clinics, showrooms and service businesses: Google Business Profile optimisation, manual citations in 3 days, review strategy and near-me keyword targeting from $100/month.
+- [Audit (week 1)](http://localhost:8080/seo-services/technical-seo): Technical SEO audits and fixes: crawl budget, indexation, Core Web Vitals, JavaScript rendering, schema markup, site architecture and log analysis. Critical fixes shipped in one week.
+- [Roadmap (week 1–2)](http://localhost:8080/seo-services/geo-targeting-seo): Rank for 'service + city' keywords across Delhi, Mumbai, Chennai, Bangalore, Hyderabad and beyond with geo-targeted landing pages, local schema and city-specific link building.
+- [Fix and optimise (week 2–4)](http://localhost:8080/seo-services/local-citations-gmb): Manual local citation building, NAP cleanup and Google Business Profile optimisation for single and multi-location businesses. Verified live URLs delivered within three days.
+- [Web Design & Development — SEO-Ready Websites | AVR Web Consulting](http://localhost:8080/web-design-development): Custom web design and development from AVR Web Consulting: WordPress, e-commerce and business websites engineered for Core Web Vitals, schema markup and AI retrieval. From $400.
+- [Built into every build](http://localhost:8080/web-design-development/wordpress-development): Custom WordPress websites, theme development, speed optimisation and migrations by AVR Web Consulting. Clean builds with schema, Core Web Vitals and easy editing.
+- [Discovery](http://localhost:8080/web-design-development/ecommerce-development): Shopify and WooCommerce store development by AVR Web Consulting: SEO-ready category architecture, product schema, fast checkout and feed-ready catalogues for global selling.
